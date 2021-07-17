@@ -1,0 +1,16 @@
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\bin\Debug\net5.0\ProjetoSalaDeAula.exe
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\bin\Debug\net5.0\ProjetoSalaDeAula.deps.json
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\bin\Debug\net5.0\ProjetoSalaDeAula.runtimeconfig.json
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\bin\Debug\net5.0\ProjetoSalaDeAula.runtimeconfig.dev.json
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\bin\Debug\net5.0\ProjetoSalaDeAula.dll
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\bin\Debug\net5.0\ref\ProjetoSalaDeAula.dll
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\bin\Debug\net5.0\ProjetoSalaDeAula.pdb
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\obj\Debug\net5.0\ProjetoSalaDeAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\obj\Debug\net5.0\ProjetoSalaDeAula.AssemblyInfoInputs.cache
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\obj\Debug\net5.0\ProjetoSalaDeAula.AssemblyInfo.cs
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\obj\Debug\net5.0\ProjetoSalaDeAula.csproj.CoreCompileInputs.cache
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\obj\Debug\net5.0\ProjetoSalaDeAula.dll
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\obj\Debug\net5.0\ref\ProjetoSalaDeAula.dll
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\obj\Debug\net5.0\ProjetoSalaDeAula.pdb
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\obj\Debug\net5.0\ProjetoSalaDeAula.genruntimeconfig.cache
+C:\GitHub\Blue_Ed_Tech_Mod3\ProjetoSalaDeAula\ProjetoSalaDeAula\obj\Debug\net5.0\ProjetoSalaDeAula.csproj.AssemblyReference.cache
